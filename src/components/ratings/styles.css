@@ -1,0 +1,11 @@
+.ratings {
+    margin-top: 50px;
+}
+
+.active {
+    color: goldenrod;
+}
+
+.inactive {
+    color: #000
+}

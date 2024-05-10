@@ -1,3 +1,18 @@
+# About this repository
+
+This repository consist of basic react applications 
+
+1. accordian
+2. data-loading in chunks and showing on the browser
+3. dynamic-menu
+4. image-slider
+5. qr code generator
+6. changing background color 
+7. star rating
+8. scroll progress indicator
+9. dark-light theme
+10. custom tabs
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

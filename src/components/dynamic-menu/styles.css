@@ -1,0 +1,20 @@
+.dynamic-menu-container {
+    min-height: 100vh;
+    width: 200px;
+    background: #68f17b;
+    
+}
+
+.menu-list-container {
+    list-style: none;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 20px;
+}
+
+.menu-item {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    cursor: pointer;
+}
