@@ -2,16 +2,22 @@
 
 This repository consist of basic react applications 
 
-1. accordian
-2. data-loading in chunks and showing on the browser
-3. dynamic-menu
-4. image-slider
-5. qr code generator
-6. changing background color 
-7. star rating
-8. scroll progress indicator
+1. scroll progress indicator
+2. accordian
+3. change background color
+4. star ratings
+5. image slider
+6. data loading in chunks
+7. dynamic menu
+8. qr code generator
 9. dark-light theme
 10. custom tabs
+11. modal on button click
+12. search github profile
+13. search autocomplete
+14. Custom hook - useFetch
+15. Custom hook - useOnClickOutside
+16. Custom hook - useWindowResize
 
 # Getting Started with Create React App
 

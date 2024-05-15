@@ -1,0 +1,55 @@
+.github-container {
+    width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.searchbox {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.searchbox input{
+    padding: 10px;
+    font-size: 15px;
+}
+
+.searchbox button {
+    padding: 5px 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: goldenrod;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.user {
+    padding: 15px;
+    border: 1px solid goldenrod;
+    border-radius: 10px;
+}
+
+.avatar {
+    width: 20%;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+
+.user-details {
+    font-size: 15px;
+}
+
+.user-details h3 {
+    font-size: 20px;
+}
+
+.user-details a {
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #000;
+}
